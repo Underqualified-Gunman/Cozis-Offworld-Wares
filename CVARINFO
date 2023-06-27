@@ -39,12 +39,12 @@ server bool cleanser_persistent_spawning = false;
 server int suit_replacement_spawn_bias = 2;
 
 // Armor Patch Kit
-server int apk_replacement_spawn_bias = 19;
-server bool apk_persistent_spawning = false;
+//server int apk_replacement_spawn_bias = 19;
+//server bool apk_persistent_spawning = false;
 
 // Universal Reloader
-server int url_replacement_spawn_bias = 19;
-server bool url_persistent_spawning = false;
+//server int url_replacement_spawn_bias = 19;
+//server bool url_persistent_spawning = false;
 
 // Logistics Bag
 server int lgb_replacement_spawn_bias = 19;
